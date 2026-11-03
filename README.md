@@ -1,1 +1,1 @@
-# Horizon-automatic-setop
+# Horizon-automatic-setup
